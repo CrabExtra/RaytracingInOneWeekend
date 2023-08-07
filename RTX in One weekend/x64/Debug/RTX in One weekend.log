@@ -1,0 +1,35 @@
+﻿  Main.cpp
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(40,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(40,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(44,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(44,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(44,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(68,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(187,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(187,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(195,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\vec3.h(196,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\ray.h(18,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\sphere.h(43,46): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\camera.h(26,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\camera.h(27,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\camera.h(28,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\camera.h(35,19): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\camera.h(40,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\camera.h(40,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\color.h(17,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\color.h(18,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\color.h(19,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\material.h(48,48): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\material.h(81,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\Main.cpp(22,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\Main.cpp(22,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\EXO\source\repos\RTX in One weekend\Main.cpp(22,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\Main.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\EXO\source\repos\RTX in One weekend\Main.cpp(52,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\EXO\source\repos\RTX in One weekend\Main.cpp(55,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\EXO\source\repos\RTX in One weekend\Main.cpp(79,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\EXO\source\repos\RTX in One weekend\Main.cpp(79,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\EXO\source\repos\RTX in One weekend\Main.cpp(79,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  RTX in One weekend.vcxproj -> C:\Users\EXO\source\repos\RTX in One weekend\x64\Debug\RTX in One weekend.exe
